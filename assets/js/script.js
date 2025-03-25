@@ -5,7 +5,7 @@ $(document).ready(function(){
         type: "post",
         dataType: "json",
         success: function(result){
-            alert("success")
+            console.log(result)
         },
         error:function(result){
             console.log(result)
