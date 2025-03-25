@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b7404c2-2168-449e-b056-3ae9183b4886" name="Changes" comment="add background">
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+    <list default="true" id="8b7404c2-2168-449e-b056-3ae9183b4886" name="Changes" comment="    add background">
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742901338904</updated>
-      <workItem from="1742901340017" duration="3654000" />
+      <workItem from="1742901340017" duration="3968000" />
     </task>
     <task id="LOCAL-00001" summary="test push">
       <option name="closed" value="true" />
@@ -151,7 +151,23 @@
       <option name="project" value="LOCAL" />
       <updated>1742905692513</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="    add background">
+      <option name="closed" value="true" />
+      <created>1742905736975</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1742905736975</updated>
+    </task>
+    <task id="LOCAL-00012" summary="    add background">
+      <option name="closed" value="true" />
+      <created>1742905765275</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1742905765275</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +189,7 @@
     <MESSAGE value="test connection" />
     <MESSAGE value="&#10;testing keymap" />
     <MESSAGE value="add background" />
-    <option name="LAST_COMMIT_MESSAGE" value="add background" />
+    <MESSAGE value="    add background" />
+    <option name="LAST_COMMIT_MESSAGE" value="    add background" />
   </component>
 </project>

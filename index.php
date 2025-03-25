@@ -10,8 +10,17 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-<div class="container">
-ciao
+<div class="container bg-white">
+<h1 class="text-center mb-4">POKEDEX</h1>
+    <div class="container justify-content-around">
+        <div class="card" style="width: 18rem;">
+            <img src="" class="card-img-top" alt="...">
+            <div class="card-body ps-2">
+                <h6 class="card-subtitle text-body-secondary mb-3"> n 01 </h6>
+                <h5 class="card-title">Bulbasaur</h5>
+            </div>
+        </div>
+    </div>
 </div>
 
 
