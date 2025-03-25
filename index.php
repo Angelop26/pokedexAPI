@@ -14,7 +14,7 @@
 <h1 class="text-center mb-4">POKEDEX</h1>
     <div class="container justify-content-around">
         <div class="card border border-0" style="width: 18rem;">
-            <div class="bg-light-subtle rounded">
+            <div class="bg-light rounded">
                 <img src="assets/img/001.png" class="card-img-top" alt="...">
             </div>
             <div class="card-body ps-2">
