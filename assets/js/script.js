@@ -5,7 +5,10 @@ $(document).ready(function(){
         type: "get",
         dataType: "json",
         success: function(result){
-            console.log(result)
+            // console.log(result)
+            result.results.forEach(function(item){
+                console.log(item)
+            })
         },
         error:function(result){
             console.log(result)
