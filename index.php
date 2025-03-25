@@ -12,24 +12,29 @@
 <body>
 <div class="container bg-white">
 <h1 class="text-center mb-4">POKEDEX</h1>
-    <div class="container d-flex justify-content-around">
-        <div class="card border border-0">
-            <div class="bg-light rounded">
-                <img src="assets/img/001.png" class="card-img-top" alt="...">
-            </div>
-            <div class="card-body ps-2">
-                <h6 class="card-subtitle text-body-secondary mb-3"> n 01 </h6>
-                <h5 class="card-title">Bulbasaur</h5>
+    <div class="container row row-cols-3 justify-content-around ">
+        <div class="col">
+            <div class="card border border-0">
+                <div class="bg-light rounded">
+                    <img src="assets/img/001.png" class="card-img-top" alt="...">
+                </div>
+                <div class="card-body ps-2">
+                    <h6 class="card-subtitle text-body-secondary mb-3"> n 01 </h6>
+                    <h5 class="card-title">Bulbasaur</h5>
+                </div>
             </div>
         </div>
-        <div class="card border border-0">
-            <div class="bg-light rounded">
-                <img src="assets/img/001.png" class="card-img-top" alt="...">
+        <div class="col">
+            <div class="card border border-0">
+                <div class="bg-light rounded">
+                    <img src="assets/img/001.png" class="card-img-top" alt="...">
+                </div>
+                <div class="card-body ps-2">
+                    <h6 class="card-subtitle text-body-secondary mb-3"> n 01 </h6>
+                    <h5 class="card-title">Bulbasaur</h5>
+                </div>
             </div>
-            <div class="card-body ps-2">
-                <h6 class="card-subtitle text-body-secondary mb-3"> n 01 </h6>
-                <h5 class="card-title">Bulbasaur</h5>
-            </div>
+
         </div>
     </div>
 </div>
